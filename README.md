@@ -7,14 +7,6 @@ A simple curved bottom navigation for Android with AnimatedVectorDrawable and Je
 ## Demo
 ![](/resources/cbn_demo.gif)
 
-## Setup
-Update your **module** level `build.gradle` file and add the following dependency. Please check the project releases for latest versions.
-```groovy
-dependencies {
-  implementation 'np.com.susanthapa:curved_bottom_navigation:latest_version'
-}
-```
-
 **Important!** This project uses AndroidX so make sure you have AndroidX enabled by adding these lines to `gradle.properties`
 ```properties
 android.useAndroidX=true
